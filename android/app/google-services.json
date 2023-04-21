@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "610019368138",
+    "project_id": "apna-sauda",
+    "storage_bucket": "apna-sauda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610019368138:android:f1e8a1f6a8b916d96e6833",
+        "android_client_info": {
+          "package_name": "com.ayrotech.apnasauda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610019368138-t3oomq48puc1f60df0gs6a0vvk0aj8ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayrotech.apnasauda",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "610019368138-9ihhc4vcbalae2oo2n9r6jn4drs4ido5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcN8rYBmvOdXbx1cTNYyOd_hc7S_-GTBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610019368138-9ihhc4vcbalae2oo2n9r6jn4drs4ido5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610019368138-5a158kep6nvpbnrt9gkdprpia3s4j8h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayrotech.apnasauda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

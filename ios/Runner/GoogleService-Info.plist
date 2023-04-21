@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>610019368138-5a158kep6nvpbnrt9gkdprpia3s4j8h9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.610019368138-5a158kep6nvpbnrt9gkdprpia3s4j8h9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>610019368138-t3oomq48puc1f60df0gs6a0vvk0aj8ac.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEcXQBMAcJNh5Wyj7CLig-MJs74YPP2Ig</string>
+	<key>GCM_SENDER_ID</key>
+	<string>610019368138</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ayrotech.apnasauda</string>
+	<key>PROJECT_ID</key>
+	<string>apna-sauda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apna-sauda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:610019368138:ios:b8760c2d69cca1d46e6833</string>
+</dict>
+</plist>
